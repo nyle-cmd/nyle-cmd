@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Nyle currently going to University for Computer Science.
-- 👀 I love playing video games, baking, and going to the gym in my free time when I'm not coding. (shocker I know)
-- 🌱 I’m currently learning Discrete Mathematics!
-- [Feel free to take a look at my portfolio!](https://nyle-cmd.github.io/Nyles-Portfolio.github.io/)
-- [And this Memory Matcher game I made](https://nyle-cmd.github.io/Memory-game/)
-<!---
-nyle-cmd/nyle-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there, I'm Nyle!
+I'm currently studying Computer Science at university and loving every minute of it! When I'm not coding, I love to unwind by playing video games, baking delicious treats, and hitting the gym to stay in shape.
+
+🌱 Learning
+Right now, I'm diving deep into the exciting world of Discrete Mathematics, where I'm exploring the fascinating connections between math and computer science.
+
+💻 Portfolio
+Check out my portfolio to see my latest projects, skills, and interests! I'm always adding new things, so come back often and see what's new.
+
+Take a peek!
+
+🎮 Memory Matcher Game
+I'm particularly proud of the Memory Matcher game I created using HTML, CSS, and JavaScript. Give it a try and see how well you can match the cards!
+
+Play now!
+
+Thanks for stopping by! If you'd like to collaborate on a project or just say hello, feel free to reach out.
