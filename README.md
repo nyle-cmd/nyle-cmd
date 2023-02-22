@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Discrete Mathematics!
 - Check out my website: https://nyle-cmd.github.io/Nyles-Portfolio.github.io/
 - Check out my game I built: https://nyle-cmd.github.io/Memory-game/
+[![My cool image](https://example.com/my-image.png)](https://example.com)
 
 <!---
 nyle-cmd/nyle-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
