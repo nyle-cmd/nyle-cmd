@@ -12,10 +12,10 @@ Check out my portfolio to see my latest projects, skills, and interests! I'm alw
 
 [Take a peek!](https://nyle-cmd.github.io/Nyles-Portfolio.github.io/)
 
-## 🎮 Memory Matcher Game
+## 🐾 Cat vs. Dog Classifier
 
-I'm particularly proud of the Memory Matcher game I created using HTML, CSS, and JavaScript. Give it a try and see how well you can match the cards!
+I'm particularly proud of the Cat vs. Dog Classifier I developed using TensorFlow and Keras. This deep learning model can distinguish between cats and dogs with remarkable accuracy. You can check out the project to explore the code, dataset, and see how well it performs on your own pet photos! The Cat vs. Dog Classifier is a testament to my skills in machine learning, image classification, and neural networks. Feel free to take a look and see if your furry friends can stump the model! 🐱🐶
 
-[Play now!](https://nyle-cmd.github.io/Memory-game/)
+[GitHub Repository](https://github.com/nyle-cmd/ML-Projects/tree/main/Cat-Dog-Classification)
 
 Thanks for stopping by! If you'd like to collaborate on a project or just say hello, feel free to reach out.
