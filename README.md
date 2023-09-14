@@ -4,7 +4,7 @@ I'm currently studying Computer Science at university and loving every minute of
 
 ## 🌱 Learning
 
-Right now, I'm diving deep into the exciting world of Discrete Mathematics, where I'm exploring the fascinating connections between math and computer science.
+Right now, I'm diving deep into the exciting world of Probility and Statistics, where I'm exploring the fascinating connections between math and the programming language R.
 
 ## 💻 Portfolio
 
