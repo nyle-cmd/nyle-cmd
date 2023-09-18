@@ -10,7 +10,7 @@ Right now, I'm diving deep into the exciting world of Probability and Statistics
 
 Check out my portfolio to see my latest projects, skills, and interests! I'm always adding new things, so come back often and see what's new.
 
-[Take a peek!](https://nyle-cmd.github.io/Nyles-Portfolio.github.io/)
+[Take a peek!](https://nyle-cmd.github.io/)
 
 ## 🐾 Cat vs. Dog Classifier
 
