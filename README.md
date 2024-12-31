@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Nyle!
 
-I'm currently studying Computer Science at university and loving every minute of it! When I'm not coding, I love to unwind by playing video games, baking delicious treats, and hitting the gym to stay in shape.
+I'm currently studying Computer Science and loving every minute of it! When I'm not coding, I love to unwind by playing video games, baking delicious treats, and hitting the gym to stay in shape.
 
 ## 🌱 Learning
 
-Right now, I'm diving deep into the exciting world of Probability and Statistics, where I'm exploring the fascinating connections between math and the programming language R.
+Right now, I'm finishing up my senior electives such as Operating Systems, Formal Methods, Secure Programming, and a bunch of other super interesting stuff!
 
 ## 💻 Portfolio
 
